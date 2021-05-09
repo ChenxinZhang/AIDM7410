@@ -8,3 +8,5 @@ You can use the [link](https://github.com/ChenxinZhang/AIDM7410/edit/gh-pages/in
 
 ![Survey](surveyQRcode.jpg)
 
+可以美化
+

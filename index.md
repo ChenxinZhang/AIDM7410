@@ -5,5 +5,6 @@ You can use the [link](https://github.com/ChenxinZhang/AIDM7410/edit/gh-pages/in
 
 ## Some interaction
 
-[Link](surveyQRcode.jpg)
+
+![Survey](surveyQRcode.jpg)
 

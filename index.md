@@ -1,6 +1,4 @@
-## Welcome to Scoop
 
-You can use the [link](https://github.com/ChenxinZhang/AIDM7410/edit/gh-pages/index.md) to see what we have found in studying ChineseWomen,Cosmo and ForhimMagazine.
 # The Change of Chinese Female Image in about the Past 20 Years -- Summarized by study 742 Women Magazine Covers
 
 ​		In recent years, discussions on women’s topics have been unprecedentedly high. Popular female variety shows such as Sisters Who Waves，Listen to me have emerged one after another, and women's topics have also been frequently searched.#How great an actress can speak , #Sister stand up and other hot searches are behind the awakening of women’s independence and self-improvement.
@@ -43,7 +41,7 @@ You can use the [link](https://github.com/ChenxinZhang/AIDM7410/edit/gh-pages/in
     <img src="https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true" width=30% height = "400"/><img src="https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenbackground.jpeg?raw=true" width=30% height = "400"/><img src="https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/cosmoWomenbackground.jpg?raw=true" width=30% height = "400"/>
 </center>
 
-![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true)
+
 
 **For Him Magazine: Body becomes a symbol**
 

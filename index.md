@@ -89,9 +89,9 @@
 ​		Volunteer is a somewhat special presence in the occupation of cover figures. On May 12, 2008, Wenchuan, Sichuan Province, suffered an 8.0 magnitude earthquake. The cover of the July issue featured a female volunteer in a tent disaster relief area in Chengdu.
 
  
-
-![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example3.jpg?raw=true)
-
+<center class = "half">
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example3.jpg?raw=true"  width = "47%" align = center>
+ </center>
  
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true)
 
@@ -209,15 +209,19 @@
 
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Occupation.png?raw=true)
 
-![img](file:///C:/Users/Cheung/AppData/Local/Temp/msohtmlclip1/01/clip_image058.jpg)![img](file:///C:/Users/Cheung/AppData/Local/Temp/msohtmlclip1/01/clip_image060.jpg)![img](file:///C:/Users/Cheung/AppData/Local/Temp/msohtmlclip1/01/clip_image062.gif)
+![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenexample1.png?raw=true)
 
 ​		In terms of time series, at the beginning of the 21st century, the women on the cover of WOMEN OF CHINA are always placed in the family, with children or husbands next to them. Since 2002, cover women's professions have been almost all literary and artistic figures such as actors, models, singers,hosts and authors. But in 2018, the cover of WOMEN OF CHINA began to be no longer limited to public figures. Outstanding female representatives from all walks of life in mainland China were seen, such as female doctors on the front lines of the fight against COVID-19, Dunhuang Research Institute Deans, female scholars, high-speed train attendants, female police officers, female athletes, etc. These professions have never appeared in the male and female business perspectives of FHM and COSMO. This also shows the exploration of WOMEN OF CHINA that wants to show the diversity of women. From commercial value to society, from parents to individuals to the dreams, it shows a change in the value orientation of women.
 
 ​		After using artificial intelligence to identify the text on the cover of magazines for 20 years, we studied the frequency of words and found that the keywords on the cover of WOMEN OF CHINA were "entrepreneurship", "story", "Life". These words focus on the realization of the inner value of women, which are quite different from the more outer vocabulary of FHM and COSMO. The words "love", "mind", "happiness", "health", and "growth" are followed, which focus on the construction of women's body and mind, and generally present women's self-love and the realization of self-worth.
 
-Color: How women were presented
+**Color: How women were presented**
 
-![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/final_forhimMagazine.png?raw=true)![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/final_cosmodone.png?raw=true)![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/final_chineseWomenDone.png?raw=true)
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/final_forhimMagazine.png?raw=true"  width = "32%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/final_cosmodone.png?raw=true"  width = "32%" align = center><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/final_chineseWomenDone.png?raw=true"  width = "31%" align = right>
+ </center>
+
+![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true)
+
 
   FHM                      COSMO                    Women of China
 

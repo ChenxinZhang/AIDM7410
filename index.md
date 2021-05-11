@@ -41,7 +41,7 @@
 <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "32%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenbackground.jpeg?raw=true"  width = "32%" align = center><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "31%" align = right>
  </center>
 
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true"  width = "100%" align = center>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true" height = "5px" width = "100%" align = center>
 
 
 **For Him Magazine: Body becomes a symbol**
@@ -91,7 +91,7 @@
 <center class = "half">
 <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example3.jpg?raw=true"  width = "47%" align = center>
  </center>
- <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true"  width = "100%" align = center>
+ <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true" height = "5px" width = "100%" align = center>
 
 **How do women usually appear in men's magazines?**
 
@@ -180,25 +180,25 @@
 **WOMEN OF CHINA****：****Female power during twenty years**
 
 ​		WOMEN OF CHINA is a national-level journal published by the China Women's Federation for Chinese female readers at home and abroad. We analyzed the covers of all 231 magazines that can be found on public websites during the two decades from 2001 to 2021, mainly from CNKI and the WeChat of WOMEN OF CHINA. And we tried to explore the image of women that the society hopes to see at the national level through the research of its cover. And asking what kind of values are being promoted by this journal? Which ones have been seen and what has been overlooked?
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true" height = "5px" width = "100%" align = center>
 <center>
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/people%20of%20women%20of%20china.png?raw=true"  width = "47%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Age.png?raw=true"  width = "47%" align = right>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/people%20of%20women%20of%20china.png?raw=true"  width = "100%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Age.png?raw=true"  width = "100%" align = right>
  </center>
-
- 
+ <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true" height = "5px" width = "100%" align = center>
 
 ​		First of all, who does WOMEN OF CHINA like to choose as the cover character? Through manual coding and statistics on the cover, we found that it is similar to FHM and COSMO. Actors in the entertainment industry have become the first choice for covers. Xu Jinglei, Fan Bingbing, Mei Ting, Jiang Wenli, Sun Li, Tang Wei, Tao Hong, Chen Hong, Yang Lan, etc. appeared on the cover. Although most of the ages of these characters are also concentrated in the 25-44 years old, like FHM and COSMO, WOMEN OF CHINA selects more capable actors than traffic stars.There are obviously more cover characters over the age of 45 than in FHM and COSMO, and the women presented are more mature.
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20FIgure%20Portrait.png?raw=true"  width = "47%" align = left>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20FIgure%20Portrait.png?raw=true"  width = "100%" align = left>
 
 ​		The external image of women displayed on the cover of WOMEN OF CHINA is also significantly different from FHM and COSMO. The cover characters of WOMEN OF CHINA are mainly presented in the form of close shot and medium shot. These two scenes make the audience pay more attention to the upper body of the character instead of the whole body, and the image displayed is more serious, low-key, and calm. In terms of dress, the cover character mainly dresses with a larger wrapping area. And most of them are standing, a few are sitting, and there is almost no posture of lying or kneeling on the ground. The difference in hairstyles is relatively small. The styling of long hair that can clearly show feminine characteristics, updo, and more neutral short hair basically account for about one-third, and there is no obvious bias.
 
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Areas%20of%20Women%20of%20China%20Cover%20%20Figure.png?raw=true"  width = "47%" align = left>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Areas%20of%20Women%20of%20China%20Cover%20%20Figure.png?raw=true"  width = "100%" align = left>
 
 ​		Since the WOMEN OF CHINA focuses on showing the style of Chinese women, the cover characters in the past two decades are mainly from mainland China, with a small number of actors, entertainment stars, singers and singers from Hong Kong, Macau and Taiwan and few are Female politicians abroad.
 
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Occupation.png?raw=true"  width = "47%" align = left>
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenexample1.png?raw=true"  width = "47%" align = left>
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true"  width = "100%" align = center>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Occupation.png?raw=true"  width = "100%" align = left>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenexample1.png?raw=true"  width = "100%" align = left>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true"  width = "100%" align = center>
 ​		In terms of time series, at the beginning of the 21st century, the women on the cover of WOMEN OF CHINA are always placed in the family, with children or husbands next to them. Since 2002, cover women's professions have been almost all literary and artistic figures such as actors, models, singers,hosts and authors. But in 2018, the cover of WOMEN OF CHINA began to be no longer limited to public figures. Outstanding female representatives from all walks of life in mainland China were seen, such as female doctors on the front lines of the fight against COVID-19, Dunhuang Research Institute Deans, female scholars, high-speed train attendants, female police officers, female athletes, etc. These professions have never appeared in the male and female business perspectives of FHM and COSMO. This also shows the exploration of WOMEN OF CHINA that wants to show the diversity of women. From commercial value to society, from parents to individuals to the dreams, it shows a change in the value orientation of women.
 
 ​		After using artificial intelligence to identify the text on the cover of magazines for 20 years, we studied the frequency of words and found that the keywords on the cover of WOMEN OF CHINA were "entrepreneurship", "story", "Life". These words focus on the realization of the inner value of women, which are quite different from the more outer vocabulary of FHM and COSMO. The words "love", "mind", "happiness", "health", and "growth" are followed, which focus on the construction of women's body and mind, and generally present women's self-love and the realization of self-worth.
@@ -231,10 +231,10 @@
 
 
 <center>
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20female.png?raw=true"  width = "46%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20male.png?raw=true"  width = "46%" align = right>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20female.png?raw=true"  width = "46%" height = "200px" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20male.png?raw=true"  width = "46%" height = "200px" align = right>
  </center>
 
- 
+ <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true"  width = "100%" height = "10px" align = center>
 
 ​		By analyzing women's portraits on three types of magazines and issuing questionnaires, we try to explore the female images constructed by the government, the female images in men's magazines, the female images in women's magazines and the general female individual's self-perceptions.
 

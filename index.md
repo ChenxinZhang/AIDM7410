@@ -90,9 +90,9 @@
 
  
 <center class = "half">
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example3.jpg?raw=true"  width = "47%" align = center>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example3.jpg?raw=true"  width = "100%" align = center>
  </center>
- <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true" height = "5px" width = "100%" align = center>
+ <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true" height = "1px" width = "100%" align = center>
 
 **How do women usually appear in men's magazines?**
 
@@ -182,9 +182,10 @@
 
 ​		WOMEN OF CHINA is a national-level journal published by the China Women's Federation for Chinese female readers at home and abroad. We analyzed the covers of all 231 magazines that can be found on public websites during the two decades from 2001 to 2021, mainly from CNKI and the WeChat of WOMEN OF CHINA. And we tried to explore the image of women that the society hopes to see at the national level through the research of its cover. And asking what kind of values are being promoted by this journal? Which ones have been seen and what has been overlooked?
 <div>
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/people%20of%20women%20of%20china.png?raw=true"  width = "48%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Age.png?raw=true"  width = "48%" align = right>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/people%20of%20women%20of%20china.png?raw=true"  width = "100%" align = center>
+ <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Age.png?raw=true"  width = "100%" align = center>
  </div>
- <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true" height = "5px" width = "100%" align = center>
+ <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true" height = "1px" width = "100%" align = center>
 
 ​		First of all, who does WOMEN OF CHINA like to choose as the cover character? Through manual coding and statistics on the cover, we found that it is similar to FHM and COSMO. Actors in the entertainment industry have become the first choice for covers. Xu Jinglei, Fan Bingbing, Mei Ting, Jiang Wenli, Sun Li, Tang Wei, Tao Hong, Chen Hong, Yang Lan, etc. appeared on the cover. Although most of the ages of these characters are also concentrated in the 25-44 years old, like FHM and COSMO, WOMEN OF CHINA selects more capable actors than traffic stars.There are obviously more cover characters over the age of 45 than in FHM and COSMO, and the women presented are more mature.
 <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20FIgure%20Portrait.png?raw=true"  width = "100%" align = left>
@@ -230,9 +231,9 @@
 
 
 
-<center>
+<div>
 <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20female.png?raw=true"  width = "45%" height = "600px" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20male.png?raw=true"  width = "45%" height = "600px" align = right>
- </center>
+ </div>
 
  <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true"  width = "100%" height = "10px" align = center>
 

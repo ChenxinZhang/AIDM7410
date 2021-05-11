@@ -36,11 +36,15 @@
 ​		FHM is a men's fashion magazine launched by the Fashion Group in 2004. As a "Men's True Feeling Magazine", it is famous for its bold and naked female images. COSMO is a women's fashion magazine that entered the mainland market in 1993 and has the title of one of the top five fashion magazines in mainland China. The commercial nature of these two magazines has become a window through which we try to pry into the image of women we expect from the audience's perspective. WOMEN OF CHINA as a national-level journal launched by the All-China Women’s Federation, the audience is Chinese women at home and abroad, and its propaganda nature makes it a sample of society’s expectations of Chinese women. The cover of the magazine is like a vivid history book, helping us to explore the changes in people's understanding and perspective of women over the past two decades.
 
 ​		We collected a total of 741 magazines, including 155 copies of FHM (197 after screening), 369 copies of COSMO, and 231 copies of WOMEN OF CHINA. We only selected the magazines with women on the cover, and after screening 741 magazines, 684 were left. Among them, the time span of FHM and COSMO is from 2004 to the present, and the WOMEN OF CHINA is from 2001 to the present. The pictures are all from public websites, but a few are missing. We use a combination of computer and human methods for data processing, computer methods for color analysis and text recognition on pictures, and human coding for the extraction of female character features. A total of three coders were cross-validated. All the computer codes and man-made coding tables used can be found in the supporting files.
-<div>
+<div style = "width:1000px;height:1000px">
 <center class = "half">
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "45%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenbackground.jpeg?raw=true"  width = "45%" align = right>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "45%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenbackground.jpeg?raw=true"  width = "45%" align = right><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "45%" align = left>
+ 
 </center>
  </div>
+ <div style="float:none;clear:both;">
+下文其他内容
+</div>
 
 
 

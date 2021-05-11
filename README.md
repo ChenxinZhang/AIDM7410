@@ -16,4 +16,4 @@ We used Baidu AI to identify the cover and extract the text from the cover. And 
 # Color extraction
 We extracted the 5 colors with the highest proportion in each cover and set the width according to the color ratio. The length of each color is 224 pixels. Then we sort the color maps according to their RGB mean value (color depth), one row spans one year, arranged from top to bottom, and synthesizes the color maps of the three magazines above. The missing parts of the magazine material are filled with white pictures.
 # Report
-The rendered report can be viewed here . [report]()
+The rendered report can be viewed here . [report](https://chenxinzhang.github.io/AIDM7410/)

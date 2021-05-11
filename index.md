@@ -41,7 +41,8 @@
 <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "32%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenbackground.jpeg?raw=true"  width = "32%" align = center><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "31%" align = right>
  </center>
 
-![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true)
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true"  width = "100%" align = center>
+
 
 **For Him Magazine: Body becomes a symbol**
 
@@ -49,15 +50,14 @@
 
 
 ​		We collected 197 FHM (China) covers featuring women since the magazine's inception in 2004 to analyze how women's images have changed in men's magazines over the past 20 years.
-![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/peopleofforhimmagazine.png?raw=true)
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/peopleofforhimmagazine.png?raw=true"  width = "100%" align = center>
 
 **What kind of woman is in a men's magazine?** 
 
 ​		Through manual coding and statistics of magazine covers, we find that over 70% of cover girls are showbiz stars, such as Fan Bingbing, Li Bingbing, Zhou Xun, etc., who are successful in their career and beautiful in shape. They have appeared on the cover of FHM for many times, showing their beautiful faces and bodies in the cover.
 
  
-
-![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Areas%20of%20FHM%20Cover%20Figure.png?raw=true)
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Areas%20of%20FHM%20Cover%20Figure.png?raw=true"  width = "100%" align = center>
 
 
 
@@ -74,12 +74,13 @@
 
 ​		Among other age groups, the number of women between 18 and 24 ranks second. They are fresh blood in front of the camera, full of energy, ambition and courage to face future challenges. Liu Wen, 19, and Ju Xiaowen, 21, have both appeared on the cover of FHM.
 
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/FHM%20Cover%20Figure%20Age.png?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/FHM%20Cover%20Figure%20Age.png?raw=true)
 
 ​		Mature women aged 35-44 account for about 10 percent of all women in covers, and with the exception of Olympic champion Li Ying and fashion photographer Chen Man, all of them are entertainment stars. They are successful, well groomed, and graced the covers of the FHM, either elegant or sexy.
 
 ​		Although FHM is known for its sexy pictures, two underage girls have appeared on its cover: Feng Jing, who won the New Silk Road Model Contest at the age of 16, and Wen Qi, who won the Golden Horse Award for Best Supporting Actress at the age of 14.
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/FHM%20Cover%20Figure%20Occupation.png?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/FHM%20Cover%20Figure%20Occupation.png?raw=true)
 
 ​		Based on the occupations of cover females, we've compiled a list of 11 occupations that FHM presents to its readers. Most of the women on the cover are from the entertainment and fashion industries, with nearly 80 percent being actors, models and singers. Athletes ranked fourth in the list of cover characters. In addition to national taekwondo athlete Zhang Lanxin, who has already entered the film industry, and has been on the cover five times, others have made their names in Olympic histories, such as women's volleyball player Zhang Changning and "nine-ball queen" Pan Xiaoting.
@@ -92,13 +93,14 @@
 <center class = "half">
 <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example3.jpg?raw=true"  width = "47%" align = center>
  </center>
- 
+ <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true)
 
 **How do women usually appear in men's magazines?**
 
 ​		Body language is a way of communication to convey thoughts and meanings. Through the external body features of characters such as posture and clothing, we can explore the status and role of women in men's magazines, so as to know what women are like in this men's world displayed by the FHM.
 
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/FHM%20Cover%20Figure%20Portrait.png?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/FHM%20Cover%20Figure%20Portrait.png?raw=true)
 
 ​		Women's clothing at For Him Magazine is very diverse. We coded it into 11 categories, of which Bikini was the most common, followed by one-piece underwear & swimwear, dress, hotpants & miniskirts. In general, the women on the covers are kind of naked and sexy, which is in line with the positioning of FHM as China's version of Playboy, showing men's feeling of the sexual attractiveness of women's bodies and attracting the attention of male readers.
@@ -106,7 +108,7 @@
 ​		Women on the covers are also in a variety of poses. We summarized five types: standing, sitting, lying, lying prone, and motion. Cover females show their good shape, and present a variety of formal beauty through different movements.
 
  
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example4.jpg?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example4.jpg?raw=true)
 
 **What are men's magazines talking about?**
@@ -116,7 +118,7 @@
 ​		From the word cloud, it can be seen that the words Fashion, Sexy, Product, Equipment and so on appear many times in the cover, there are some commercial recommendations for male readers, such as Watches, Men's Clothing and so on, and words aimed at women mainly include Sexy, Girl, Girlfriend, Beauty.
 
  
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/wordcloudofforhimmagazine.png?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/wordcloudofforhimmagazine.png?raw=true)
 
 ​		In recent years, the FHM has changed in content and cover style, with less sexy shapes and some covers only featuring male images. In terms of the cover text, there appeared "She and herself", "new progressive me" and other slogans with the color of female independence instead of male perception. The cover of the December 2020 issue shows a group portrait of girls, with the caption "post-00s girls with the right to answer questions in their future", which is a big contrast with the previous style of looking at women from a man perspective.
@@ -138,7 +140,7 @@
 ​		We first choose to combine the characteristics of demographics to explore the data and visualization of the questions we are curious about through the two aspects of the cover woman's occupation, social role characteristics and age.
 
  
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/people%20of%20cosmo.png?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/people%20of%20cosmo.png?raw=true)
 
  
@@ -146,13 +148,13 @@
 ​		Through the manual coding and visualization of 369 magazines of COSMO from 2001 to 2021, we can see that the top ten most frequently appearing characters on the cover in the past two decades are all from the entertainment industry.These women include Fan Bingbing, Zhao Wei, Yang Ying, Zhou Xun, Li Bingbing, Ni Ni, Li Yuchun, Gao Yuanyuan, etc. By searching these women, we found that they all have similar characteristics in a certain field. For example, they all have a high reputation and influence, conform to the public's aesthetic preferences and possess plastic tension.
 
 ​		We refer to the Forbes China Celebrity 100 and the audience's awareness of the stars themselves. We have observed that COSMO magazine has higher comprehensive requirements for cover women.This also means that they are very strict about the selection of cover characters. At the same time, the repeat exposure rate of cover women is also relatively high, especially concentrated on the well-known domestic actresses such as Zhao Wei, Zhou Xun, Yang Ying, Tang Yan, Fan Bingbing, etc.
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/COSMO%20Cover%20FIgure%20Occupation.png?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/COSMO%20Cover%20FIgure%20Occupation.png?raw=true)
 
 ​		We have divided the age groups four times to explore the age levels of the cover characters, which are 18 to 24 years old, 25 to 34 years old, 35 to 44 years old, and women over 45 years old. Through the above COSMO Cover Figure Age, we can clearly see that the women who have appeared in COSMO magazine on the cover of magazines for 20 years are mainly concentrated between 25 and 34 years old. More than 50% of the women in this age group appear on magazine covers, followed by women between 35 and 44. The age group of the cover characters of FHM is also mainly between 25 and 34 years old. The cover characters in this age group also exceed 50%, which is the largest proportion of all age groups.
 
  
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/COSMO%20Cover%20Figure%20Age.png?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/COSMO%20Cover%20Figure%20Age.png?raw=true)
 
 ​		COSMO and FHM magazines tend to choose women from 25 to 34 years old as cover characters when choosing cover characters. This is also the main age group and bonus period of current fashion and entertainment stars. However we can also see that, compared with COSMO, FHM tends to be younger when choosing the age group of female cover characters. In the past two decades, there have been nearly twice as many women between the ages of 18 and 24 who have appeared on the cover of FHM than in COSMO.
@@ -162,7 +164,7 @@
 **What are the characteristics of women on the cover of fashion magazines?**
 
  
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/COSMO%20Cover%20Figure%20Portrait.png?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/COSMO%20Cover%20Figure%20Portrait.png?raw=true)
 
 ​		The feminine dress and hairstyle characteristics of a magazine cover character are the key to shaping the character's image, and clothing is an extension of the human skin. The dress and hairstyle of the woman on the cover are very important visual language, which not only reflects the character of the character, but also represents the values of the magazine itself.
@@ -174,7 +176,7 @@
 **What are women's fashion magazines talking about?**
 
  
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/cosmoexample1.png?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/cosmoexample1.png?raw=true)
 
  
@@ -184,31 +186,34 @@
 ​		In the COSMO, we observed that "love", "sexy", "youth", "beauty", and "happiness" are all high-frequency keywords that often appear in the cover lead title. In January 2015, August 2018 and August 2017 in COSMO, we can see "women in the workplace", "girls support girls", "pink power" and other women with self-consciousness and awakening. The vocabulary appears on the cover. The awakening of female consciousness expresses women's pursuit of equal rights in the political, economic, and cultural fields. In addition to fashionable clothes and exquisite makeup and hair, more and more women are beginning to focus on exploring their inner world, looking for an independent self in life. The use of these words also reflects the encouragement of a magazine focusing on women's fashion for women to publicize their attitudes to life and pursue self-independent personality.
 
  
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/wordcloudofcosmowomen.png?raw=true"  width = "100%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/wordcloudofcosmowomen.png?raw=true)
 
 **WOMEN OF CHINA****：****Female power during twenty years**
 
 ​		WOMEN OF CHINA is a national-level journal published by the China Women's Federation for Chinese female readers at home and abroad. We analyzed the covers of all 231 magazines that can be found on public websites during the two decades from 2001 to 2021, mainly from CNKI and the WeChat of WOMEN OF CHINA. And we tried to explore the image of women that the society hopes to see at the national level through the research of its cover. And asking what kind of values are being promoted by this journal? Which ones have been seen and what has been overlooked?
 
- 
-
+<center>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/people%20of%20women%20of%20china.png?raw=true"  width = "47%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Age.png?raw=true"  width = "47%" align = right>
+ </center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/people%20of%20women%20of%20china.png?raw=true)![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Age.png?raw=true)
 
  
 
 ​		First of all, who does WOMEN OF CHINA like to choose as the cover character? Through manual coding and statistics on the cover, we found that it is similar to FHM and COSMO. Actors in the entertainment industry have become the first choice for covers. Xu Jinglei, Fan Bingbing, Mei Ting, Jiang Wenli, Sun Li, Tang Wei, Tao Hong, Chen Hong, Yang Lan, etc. appeared on the cover. Although most of the ages of these characters are also concentrated in the 25-44 years old, like FHM and COSMO, WOMEN OF CHINA selects more capable actors than traffic stars.There are obviously more cover characters over the age of 45 than in FHM and COSMO, and the women presented are more mature.
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20FIgure%20Portrait.png?raw=true"  width = "47%" align = left>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20FIgure%20Portrait.png?raw=true)
 
 ​		The external image of women displayed on the cover of WOMEN OF CHINA is also significantly different from FHM and COSMO. The cover characters of WOMEN OF CHINA are mainly presented in the form of close shot and medium shot. These two scenes make the audience pay more attention to the upper body of the character instead of the whole body, and the image displayed is more serious, low-key, and calm. In terms of dress, the cover character mainly dresses with a larger wrapping area. And most of them are standing, a few are sitting, and there is almost no posture of lying or kneeling on the ground. The difference in hairstyles is relatively small. The styling of long hair that can clearly show feminine characteristics, updo, and more neutral short hair basically account for about one-third, and there is no obvious bias.
 
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Areas%20of%20Women%20of%20China%20Cover%20%20Figure.png?raw=true"  width = "47%" align = left>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Areas%20of%20Women%20of%20China%20Cover%20%20Figure.png?raw=true)
 
 ​		Since the WOMEN OF CHINA focuses on showing the style of Chinese women, the cover characters in the past two decades are mainly from mainland China, with a small number of actors, entertainment stars, singers and singers from Hong Kong, Macau and Taiwan and few are Female politicians abroad.
 
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Occupation.png?raw=true"  width = "47%" align = left>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Occupation.png?raw=true)
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenexample1.png?raw=true"  width = "47%" align = left>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenexample1.png?raw=true)
 
 ​		In terms of time series, at the beginning of the 21st century, the women on the cover of WOMEN OF CHINA are always placed in the family, with children or husbands next to them. Since 2002, cover women's professions have been almost all literary and artistic figures such as actors, models, singers,hosts and authors. But in 2018, the cover of WOMEN OF CHINA began to be no longer limited to public figures. Outstanding female representatives from all walks of life in mainland China were seen, such as female doctors on the front lines of the fight against COVID-19, Dunhuang Research Institute Deans, female scholars, high-speed train attendants, female police officers, female athletes, etc. These professions have never appeared in the male and female business perspectives of FHM and COSMO. This also shows the exploration of WOMEN OF CHINA that wants to show the diversity of women. From commercial value to society, from parents to individuals to the dreams, it shows a change in the value orientation of women.
@@ -216,10 +221,10 @@
 ​		After using artificial intelligence to identify the text on the cover of magazines for 20 years, we studied the frequency of words and found that the keywords on the cover of WOMEN OF CHINA were "entrepreneurship", "story", "Life". These words focus on the realization of the inner value of women, which are quite different from the more outer vocabulary of FHM and COSMO. The words "love", "mind", "happiness", "health", and "growth" are followed, which focus on the construction of women's body and mind, and generally present women's self-love and the realization of self-worth.
 
 **Color: How women were presented**
-
+<center>
 <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/final_forhimMagazine.png?raw=true"  width = "32%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/final_cosmodone.png?raw=true"  width = "32%" align = center><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/final_chineseWomenDone.png?raw=true"  width = "31%" align = right>
  </center>
-
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true"  width = "47%" align = center>
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true)
 
 
@@ -243,8 +248,9 @@
 
 
 
-
-
+<center>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20female.png?raw=true"  width = "46%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20male.png?raw=true"  width = "46%" align = right>
+ </center>
 
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20female.png?raw=true)![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20male.png?raw=true)
 

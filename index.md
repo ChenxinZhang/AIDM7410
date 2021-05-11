@@ -38,13 +38,10 @@
 ​		We collected a total of 741 magazines, including 155 copies of FHM (197 after screening), 369 copies of COSMO, and 231 copies of WOMEN OF CHINA. We only selected the magazines with women on the cover, and after screening 741 magazines, 684 were left. Among them, the time span of FHM and COSMO is from 2004 to the present, and the WOMEN OF CHINA is from 2001 to the present. The pictures are all from public websites, but a few are missing. We use a combination of computer and human methods for data processing, computer methods for color analysis and text recognition on pictures, and human coding for the extraction of female character features. A total of three coders were cross-validated. All the computer codes and man-made coding tables used can be found in the supporting files.
 <div style = "width:1000px;height:1000px">
 <center class = "half">
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "45%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenbackground.jpeg?raw=true"  width = "45%" align = right><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "45%" align = left>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "32%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenbackground.jpeg?raw=true"  width = "32%" align = center><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "31%" align = right>
  
 </center>
- </div>
- <div style="float:none;clear:both;">
-下文其他内容
-</div>
+
 
 
 

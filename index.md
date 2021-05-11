@@ -39,14 +39,14 @@
 <div style = "width:1000px;height:1000px">
 <center class = "half">
 <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "32%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenbackground.jpeg?raw=true"  width = "32%" align = center><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "31%" align = right>
- 
-</center>
+ </center>
 
-
-
-
+![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true)
 
 **For Him Magazine: Body becomes a symbol**
+
+
+
 
 ​		We collected 197 FHM (China) covers featuring women since the magazine's inception in 2004 to analyze how women's images have changed in men's magazines over the past 20 years.
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/peopleofforhimmagazine.png?raw=true)
@@ -65,7 +65,10 @@
 
 ​		Among the non-celebrities, there are a number of emerging models from the “Dress Girl Dream Show” and other modeling competitions. According to BaiduPedia, the "Dress Girl Dream Show" is a series of activities with the theme of "Chinese Style Sexy" held by the FHM since 2008, in an effort to explore their own aesthetic standards for Chinese men and select models and actors who meet the magazine's standards of "Chinese Style Sexy". Although the girls are not showbiz stars, they are seen as aesthetic symbols for Chinese men, graced the cover of FHM.
 
-![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example1.jpg?raw=true)![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example2.jpg?raw=true)
+<center class = "half">
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example1.jpg?raw=true"  width = "47%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example2.jpg?raw=true"  width = "47%" align = center>
+ </center>
+
 
 ​		Among the cover females whose ages can be found, 25- to 34-year-olds are the most common, depending on how old they were when the magazine published. These females tend to have been in the entertainment industry for many years, have achieved some kind of success in their career and are in the bonus period of the entertainment industry career. 
 
@@ -90,6 +93,7 @@
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example3.jpg?raw=true)
 
  
+![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true)
 
 **How do women usually appear in men's magazines?**
 
@@ -104,6 +108,7 @@
  
 
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/forhimmagazine_example4.jpg?raw=true)
+
 **What are men's magazines talking about?**
 
 ​		On the cover of a magazine, the text revolves around the image of females on the cover, bringing the reader with visual stimulation. Studying the cover text of FHM can help us understand the thoughts and opinions the magazine is trying to express. We extracted the cover text of the FHM with female cover figures and did natural language processing. 

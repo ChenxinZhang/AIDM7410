@@ -36,6 +36,8 @@
 ​		FHM is a men's fashion magazine launched by the Fashion Group in 2004. As a "Men's True Feeling Magazine", it is famous for its bold and naked female images. COSMO is a women's fashion magazine that entered the mainland market in 1993 and has the title of one of the top five fashion magazines in mainland China. The commercial nature of these two magazines has become a window through which we try to pry into the image of women we expect from the audience's perspective. WOMEN OF CHINA as a national-level journal launched by the All-China Women’s Federation, the audience is Chinese women at home and abroad, and its propaganda nature makes it a sample of society’s expectations of Chinese women. The cover of the magazine is like a vivid history book, helping us to explore the changes in people's understanding and perspective of women over the past two decades.
 
 ​		We collected a total of 741 magazines, including 155 copies of FHM (197 after screening), 369 copies of COSMO, and 231 copies of WOMEN OF CHINA. We only selected the magazines with women on the cover, and after screening 741 magazines, 684 were left. Among them, the time span of FHM and COSMO is from 2004 to the present, and the WOMEN OF CHINA is from 2001 to the present. The pictures are all from public websites, but a few are missing. We use a combination of computer and human methods for data processing, computer methods for color analysis and text recognition on pictures, and human coding for the extraction of female character features. A total of three coders were cross-validated. All the computer codes and man-made coding tables used can be found in the supporting files.
+
+
 <div style = "width:1000px;height:1000px">
 <center class = "half">
 <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "32%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/chineseWomenbackground.jpeg?raw=true"  width = "32%" align = center><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/10..jpeg?raw=true"  width = "31%" align = right>
@@ -177,12 +179,12 @@
  
 <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/wordcloudofcosmowomen.png?raw=true"  width = "100%" align = center>
 
-**WOMEN OF CHINA****：****Female power during twenty years**
+**WOMEN OF CHINA**：**Female power during twenty years**
 
 ​		WOMEN OF CHINA is a national-level journal published by the China Women's Federation for Chinese female readers at home and abroad. We analyzed the covers of all 231 magazines that can be found on public websites during the two decades from 2001 to 2021, mainly from CNKI and the WeChat of WOMEN OF CHINA. And we tried to explore the image of women that the society hopes to see at the national level through the research of its cover. And asking what kind of values are being promoted by this journal? Which ones have been seen and what has been overlooked?
 <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true" height = "5px" width = "100%" align = center>
 <center>
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/people%20of%20women%20of%20china.png?raw=true"  width = "100%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Age.png?raw=true"  width = "100%" align = right>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/people%20of%20women%20of%20china.png?raw=true"  width = "49%" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/Women%20of%20China%20Cover%20Figure%20Age.png?raw=true"  width = "49%" align = right>
  </center>
  <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true" height = "5px" width = "100%" align = center>
 
@@ -231,7 +233,7 @@
 
 
 <center>
-<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20female.png?raw=true"  width = "46%" height = "200px" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20male.png?raw=true"  width = "46%" height = "200px" align = right>
+<img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20female.png?raw=true"  width = "46%" height = "600px" align = left><img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/survey%20of%20male.png?raw=true"  width = "46%" height = "600px" align = right>
  </center>
 
  <img src = "https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true"  width = "100%" height = "10px" align = center>

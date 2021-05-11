@@ -223,7 +223,7 @@
 ![img](https://github.com/ChenxinZhang/markdownImage/blob/main/AIDM7410/blank.jpg?raw=true)
 
 
-  FHM                      COSMO                    Women of China
+ left: FHM                    center:  COSMO                   right: Women of China
 
 ​		We extracted the 5 colors with the highest proportion in each cover, and set the width according to the color ratio. The length of each color is 224 pixels. Then we sort the color maps according to their RGB mean value (color depth), one row spans one year, arranged from top to bottom, and synthesizes the color maps of the three magazines above. The missing parts of the magazine material are filled with white pictures.
 
@@ -239,7 +239,7 @@
 
 ​		In our survey, 160 responses were received, of which 129 were women and 31 were men. From the differences and frequency of words, we can see that the words which were used by women are more abundant. There are 211 different words in a woman's own description, of which there are more neutral words, such as kindness, independence, optimism, self-confidence, hard work, vivacity, courage, etc. Men's description of women contains 63 different words, of which the description of women is more traditional society's preference for describing women's words, such as sexy, generous, elegant, gentle, white and so on.
 
-```markdown
+
 
 
 
